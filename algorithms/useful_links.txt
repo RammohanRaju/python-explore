@@ -1,0 +1,3 @@
+Algoriths : http://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/
+
+http://dataconomy.com/python-packages-for-data-mining/
